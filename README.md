@@ -1,4 +1,2 @@
-# theme: jekyll-theme-minimal
-# title: Ersi Lacka Portfolio
-# description: Bookmark this to keep an eye on my project updates!
+
 # ersilacka.github.io
